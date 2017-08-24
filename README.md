@@ -40,3 +40,6 @@ https://codepen.io/collection/HtAne/
 
 # Sweet Alerts
 https://limonte.github.io/sweetalert2/
+
+# Progress Bar
+https://bootsnipp.com/snippets/AXM9D
