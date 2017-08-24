@@ -43,3 +43,6 @@ https://limonte.github.io/sweetalert2/
 
 # Progress Bar
 https://bootsnipp.com/snippets/AXM9D
+
+# Browser Detect
+https://stackoverflow.com/documentation/javascript/2599/detecting-browser#t=201708240928500890457
