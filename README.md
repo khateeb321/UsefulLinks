@@ -46,3 +46,6 @@ https://bootsnipp.com/snippets/AXM9D
 
 # Browser Detect
 https://stackoverflow.com/documentation/javascript/2599/detecting-browser#t=201708240928500890457
+
+# Cross Browser & Screen Sizes
+https://modernizr.com/
