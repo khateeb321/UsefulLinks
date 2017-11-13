@@ -40,6 +40,7 @@ https://stackoverflow.com/documentation/javascript/2599/detecting-browser#t=2017
 # Cross Browser & Screen Sizes
 https://modernizr.com/
 
-# Brerak large forms with Animation
+# Break large forms with Animation
 http://www.jquery-steps.com/Examples
 http://techlaboratory.net/smartwizard/demo/basic
+http://vinceg.github.io/twitter-bootstrap-wizard/
