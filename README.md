@@ -1,5 +1,3 @@
-# UsefulLinks
-
 # Login template
 https://codepen.io/T-P/pen/bpWqrr
 
@@ -42,5 +40,6 @@ https://stackoverflow.com/documentation/javascript/2599/detecting-browser#t=2017
 # Cross Browser & Screen Sizes
 https://modernizr.com/
 
-# jQuery Steps (Brerak large forms with Animation)
+# Brerak large forms with Animation
 http://www.jquery-steps.com/Examples
+http://techlaboratory.net/smartwizard/demo/basic
