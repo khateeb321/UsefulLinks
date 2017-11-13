@@ -1,13 +1,5 @@
 # UsefulLinks
 
-* https://www.aspsnippets.com/demos/1041/
-* https://demos.devexpress.com/ASPxTreeListDemos/Editing/FileManager.aspx
-* http://demos.telerik.com/aspnet-ajax/treeview/examples/applicationscenarios/directorystructure/defaultcs.aspx
-* http://thejackalofjavascript.com/file-browser-with-jstree-angularjs-and-expressjs/
-* http://angularscript.com/file-explorer-like-angularjs-tree-view-directive/
-* https://stackoverflow.com/questions/12497801/is-there-any-open-source-folder-browser-creator-for-azure-blob-storage
-* https://demos.devexpress.com/MVCxFileManagerAndUploadDemos/FileManager/AzureProvider
-
 # Login template
 https://codepen.io/T-P/pen/bpWqrr
 
@@ -49,3 +41,6 @@ https://stackoverflow.com/documentation/javascript/2599/detecting-browser#t=2017
 
 # Cross Browser & Screen Sizes
 https://modernizr.com/
+
+# jQuery Steps (Brerak large forms with Animation)
+http://www.jquery-steps.com/Examples
