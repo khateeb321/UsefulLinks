@@ -45,3 +45,6 @@ http://www.jquery-steps.com/Examples
 http://techlaboratory.net/smartwizard/demo/basic
 http://vinceg.github.io/twitter-bootstrap-wizard/
 http://embed.plnkr.co/M03tYgtfqNH09U4x5pHC/preview
+
+# Fullscreen Modal works with Angular Controller
+https://github.com/sthomp/angular-blurred-modal
