@@ -50,3 +50,6 @@ http://embed.plnkr.co/M03tYgtfqNH09U4x5pHC/preview
 https://github.com/sthomp/angular-blurred-modal
 https://codyhouse.co/demo/morphing-modal-window/index.html
 http://joaopereirawd.github.io/animatedModal.js/
+
+# Ghost Buttons
+https://www.webpagefx.com/blog/web-design/ghost-buttons/
