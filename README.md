@@ -56,3 +56,6 @@ https://www.webpagefx.com/blog/web-design/ghost-buttons/
 
 # D3 Graphs
 https://github.com/d3/d3/wiki/Gallery
+
+# PrimeNG
+https://medium.com/@OlegVaraksin/displaying-primeng-confirmation-dialog-with-guarded-routes-f5d07e646b4a
