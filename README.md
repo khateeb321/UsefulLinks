@@ -62,3 +62,6 @@ https://medium.com/@OlegVaraksin/displaying-primeng-confirmation-dialog-with-gua
 
 # ag-Grid
 https://www.ag-grid.com/
+
+# Tri option Checkbox
+https://www.primefaces.org/primeng/#/tristatecheckbox
