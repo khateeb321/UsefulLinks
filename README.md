@@ -65,3 +65,6 @@ https://www.ag-grid.com/
 
 # Tri option Checkbox
 https://www.primefaces.org/primeng/#/tristatecheckbox
+
+# Sejda (PDF editor)
+https://www.sejda.com/pdf-editor
