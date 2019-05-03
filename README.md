@@ -68,3 +68,6 @@ https://www.primefaces.org/primeng/#/tristatecheckbox
 
 # Sejda (PDF editor)
 https://www.sejda.com/pdf-editor
+
+# BOOTSTRAP SIDEBAR
+https://bootstrapious.com/p/bootstrap-sidebar
