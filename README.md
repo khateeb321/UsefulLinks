@@ -71,3 +71,6 @@ https://www.sejda.com/pdf-editor
 
 # BOOTSTRAP SIDEBAR
 https://bootstrapious.com/p/bootstrap-sidebar
+
+# RxJS
+https://rxjs-dev.firebaseapp.com/
