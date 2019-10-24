@@ -74,3 +74,6 @@ https://bootstrapious.com/p/bootstrap-sidebar
 
 # RxJS
 https://rxjs-dev.firebaseapp.com/
+
+# Fireship
+https://fireship.io/
